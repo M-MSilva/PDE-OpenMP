@@ -6,7 +6,7 @@
 #define m 760
 #define n 760
 
-//Definindo funcoes vai ate a linha 62
+//Definindo funcoes vai ate a linha 166
 //Funcao Inicial Da EDP
 double g( double x, double y)
 {
