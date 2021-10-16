@@ -5,7 +5,7 @@
 #define tolerance 1e-9
 
 
-//Definindo funcoes vai ate a linha 30
+//Definindo funcoes vai ate a linha 62
 //Funcao Inicial Da EDP
 double g( double x, double y)
 {
