@@ -8,7 +8,7 @@
 #define n 760
 #define CHUNK 80
 
-//Definindo funcoes vai ate a linha 62
+//Definindo funcoes vai ate a linha 176
 //Funcao Inicial Da EDP
 double g( double x, double y)
 {
