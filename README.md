@@ -11,6 +11,12 @@ The implemented program is based on the pseudocode of the book (Burden and Faire
 
 where the subtitles numerico ( is the numerical solution), and analitico ( is the analytical solution). The average uncertainty of the resolution is in the ninth decimal place.
 
+## Conceptual Model
+
+![SerialResult.JPG](https://github.com/M-MSilva/PDE-OpenMP/blob/main/Fluxogram.JPG)
+
+The code in c solves the Poisson elliptical P.D.E by calculating the matrix that approximates the solution to the P.D.E. The steps to calculate the matrix are illustrated above.
+
 ## Motivation
 
 This program serves to learn the methods of gauss seidel and finite differences, as well as to solve any elliptic P.D.E category with the appropriate boundary condition. Boundary conditions and start function are shown at the beginning of the code and can be changed as needed. :smiley:
