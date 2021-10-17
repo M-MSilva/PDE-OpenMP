@@ -29,7 +29,7 @@ The code using the shared memory API has a chunk size = 80, just for safety and 
 
 ### Initial requirements
 
-To compile the code you need any compiler that has the OpenMP shared memory API (compilers list: https://www.openmp.org/resources/openmp-compilers-tools/), however it is recommended to use GNU compiler, because some specific optimization flags will be introduced later.
+To compile the code you need any compiler that has the OpenMP shared memory API (compilers list: https://www.openmp.org/resources/openmp-compilers-tools/), however it is recommended to use GNU compiler, because some specific optimization flags I used can only be applied with this compiler.
 
 ### Compiling and running the code
 
