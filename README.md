@@ -71,7 +71,7 @@ LinkedIn: linkedin.com/in/marcos-silva-089699b3 :hugs:
 
 ## Author
 
-Marocs Matheus de Paiva Silva
+Marcos Matheus de Paiva Silva
 
 ## License
 
