@@ -13,10 +13,60 @@ where the subtitles numerico ( is the numerical solution), and analitico ( is th
 
 ## Motivation
 
-This program serves both for learning the gauss seidel and finite difference methods, as well as for testing any category of P.D.E Elliptic with the appropriate boundary condition. Boundary conditions and initial function are shown at the beginning of the code and can be changed as required. 
-
-Any questions my e-mail to contact is: marcosmatheusdepaivasilva@gmail.com.
+This program serves to learn the methods of gauss seidel and finite differences, as well as to solve any elliptic P.D.E category with the appropriate boundary condition. Boundary conditions and start function are shown at the beginning of the code and can be changed as needed.
 
 ## Remarks about the program
 
 The code using the shared memory API has a chunk size = 80, just for safety and to avoid possible future errors, since later we define the chunk size = multiple of the number of threads.
+
+## Instructions for compiling and executing the code
+
+### Initial requirements
+
+To compile the code you need any compiler that has the OpenMP shared memory API (compilers list: https://www.openmp.org/resources/openmp-compilers-tools/), however it is recommended to use GNU compiler, because some specific optimization flags will be introduced later.
+
+### Compiling and running the code
+
+To compile the code in serial using the GNU compiler do:
+
+```bash
+gcc PDE_MM_SerialCode.c -lm
+```
+
+and run:
+
+```bash
+./a.out
+```
+
+To compile the code in parallel using the GNU compiler do:
+
+```bash
+gcc -fopenmp -o prg.x PDE_MM_OpenMPCode.c -lm
+```
+export the number of threads:
+
+```bash
+export OMP_NUM_THREADS=number of threads
+```
+
+and run the program at the end:
+
+```bash
+./prg.x
+```
+## Contributing
+
+Reviews and suggestions feel free to send me:
+
+e-mail: marcosmatheusdepaivasilva@gmail.com
+
+LinkedIn: linkedin.com/in/marcos-silva-089699b3
+
+## Author
+
+Marocs Matheus de Paiva Silva
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
