@@ -13,7 +13,7 @@ where the subtitles numerico ( is the numerical solution), and analitico ( is th
 
 ## Motivation
 
-This program serves to learn the methods of gauss seidel and finite differences, as well as to solve any elliptic P.D.E category with the appropriate boundary condition. Boundary conditions and start function are shown at the beginning of the code and can be changed as needed.
+This program serves to learn the methods of gauss seidel and finite differences, as well as to solve any elliptic P.D.E category with the appropriate boundary condition. Boundary conditions and start function are shown at the beginning of the code and can be changed as needed. :smiley:
 
 ## Remarks about the program
 
@@ -55,13 +55,13 @@ and run the program at the end:
 ```bash
 ./prg.x
 ```
-## Contributing
+## Contributing 
 
 Reviews and suggestions feel free to send me:
 
 e-mail: marcosmatheusdepaivasilva@gmail.com
 
-LinkedIn: linkedin.com/in/marcos-silva-089699b3
+LinkedIn: linkedin.com/in/marcos-silva-089699b3 :hugs:
 
 ## Author
 
