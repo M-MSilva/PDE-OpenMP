@@ -61,6 +61,14 @@ and run the program at the end:
 ```bash
 ./prg.x
 ```
+
+## Built With
+
+* [OpenMP-4.0](https://www.openmp.org/wp-content/uploads/OpenMP4.0.0.pdf) - Documentation OpenMP version 4.0
+* [OpenMP-4.5](https://www.openmp.org/wp-content/uploads/openmp-4.5.pdf) - Documentation OpenMP version 4.5
+
+
+
 ## Contributing 
 
 Reviews and suggestions feel free to send me:
