@@ -75,7 +75,7 @@ Reviews and suggestions feel free to send me:
 
 e-mail: marcosmatheusdepaivasilva@gmail.com
 
-LinkedIn: linkedin.com/in/marcos-silva-089699b3 :hugs:
+LinkedIn: https://www.linkedin.com/in/marcos-matheus-silva-089699b3/ :hugs:
 
 ## Author
 
